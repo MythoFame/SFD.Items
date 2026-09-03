@@ -1,0 +1,54 @@
+// default for r,g,b and a is 255
+// VW was here!!!: Chambafighters colors are below
+color(Skin1)	{ c=(135,83,48),(116,71,41),(96,58,34); }
+color(Skin2)	{ c=(255,149,98),(255,124,62),(192,118,092); }
+color(Skin3)	{ c=(255,172,132),(255,156,108),(192,096,048); }
+color(Skin4)	{ c=(255,192,160),(255,172,132),(224,128,114); }
+color(Skin5)	{ c=(224,224,224),(208,192,192),(192,160,160); }
+
+color(ClothingLightGray)	{ c=(224,224,224),(192,192,192),(128,128,128); }
+color(ClothingLightPink)	{ c=(255,192,192),(255,160,160),(255,128,128); }
+color(ClothingLightRed)		{ c=(255,64,48),(224,48,32),(192,32,16); }
+color(ClothingLightOrange)	{ c=(255,160,064),(255,128,032),(192,96,016); }
+color(ClothingLightYellow)	{ c=(255,224,000),(240,192,000),(208,150,000); }
+color(ClothingLightGreen)	{ c=(096,192,064),(016,160,000),(008,128,000); }
+color(ClothingLightCyan)	{ c=(024,192,192),(016,160,160),(08,128,128); }
+color(ClothingLightBlue)	{ c=(160,160,255),(128,128,255),(96,96,192); }
+color(ClothingLightPurple)	{ c=(224,128,224),(192,64,192),(160,32,160); }
+color(ClothingLightBrown)	{ c=(192,108,096),(160,096,064),(128,064,032); }
+
+color(ClothingGray)		{ c=(096,096,096),(064,064,064),(032,032,032); }
+color(ClothingPink)		{ c=(255,128,128),(232,96,96),(192,064,064); }
+color(ClothingRed)		{ c=(232,040,000),(180,032,000),(136,016,000); }
+color(ClothingOrange)	{ c=(255,128,000),(192,096,000),(128,064,000); }
+color(ClothingYellow)	{ c=(240,224,000),(208,192,000),(176,160,000); }
+color(ClothingGreen)	{ c=(032,160,000),(016,128,000),(008,096,000); }
+color(ClothingCyan)		{ c=016,128,128),(008,096,096),(000,064,064); }
+color(ClothingBlue)		{ c=(64,64,224),(48,48,192),(36,36,160); }
+color(ClothingPurple)	{ c=(192,064,192),(160,032,160),(128,016,128); }
+color(ClothingBrown)	{ c=128,064,048),(096,048,032),(064,032,016); }
+
+color(ClothingDarkGray)		{ c=048,048,048),(024,024,024),(012,012,012); }
+color(ClothingDarkPink)		{ c=160,064,064),(128,048,048),(096,032,032); }
+color(ClothingDarkRed)		{ c=128,016,000),(096,008,000),(064,000,000); }
+color(ClothingDarkOrange)	{ c=128,064,000),(096,032,000),(064,032,000); }
+color(ClothingDarkYellow)	{ c=128,128,000),(096,096,000),(064,064,000); }
+color(ClothingDarkGreen)	{ c=016,128,000),(012,096,000),(008,048,000); }
+color(ClothingDarkCyan)		{ c=008,096,096),(000,064,064),(000,032,032); }
+color(ClothingDarkBlue)		{ c=64,64,160),(32,32,128),(24,24,96); }
+color(ClothingDarkPurple)	{ c=128,000,128),(096,000,096),(064,000,064); }
+color(ClothingDarkBrown)	{ c=096,048,032),(064,032,016),(048,024,008); }
+
+color(ClothingWhite)		{ c=(255,255,255),(192,192,192),(160,160,160); } 
+color(ClothingBlack)		{ c=(0,0,0),(0,0,0),(0,0,0); } 
+
+// Chambafighters colors 
+
+color(Skin6)		{ c = (104, 58, 42), (76, 42, 31), (41, 24, 20); }
+color(SkinRotten)	{ c=(192,175,135),(163,132,112),(128,103,75); }
+color(SkinZombie)	{ c = (115, 150, 070), (086, 112, 052), (070, 89, 042); }
+color(SkinPink)		{ c = (255, 181, 181), (226, 152, 152), (192, 128, 128); }
+color(SkinYellow)	{ c=(255,224,128),(255,224,92),(224,192,48); }
+
+color(ClothingLightWhite)	{ c=(255,255,255),(255,255,255),(255,255,255); } 
+color(ClothingMetal)		{ c=(192,192,192),(128,128,128),(64,64,64); } 
